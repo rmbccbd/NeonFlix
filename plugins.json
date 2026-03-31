@@ -1,0 +1,29 @@
+[
+    {
+        "iconUrl": "https://www.media.xplorenetbd.com/images/dhaka.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/rmbccbd/NeonFlix",
+        "fileSize": 18990,
+        "status": 3,
+        "language": "bn",
+        "authors": [
+            "RMBCCBD"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "OVA",
+            "Cartoon",
+            "AsianDrama",
+            "Others",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "DhakaFlixProvider",
+        "description": "DhakaFlix",
+        "url": "https://raw.githubusercontent.com/rmbccbd/NeonFlix/builds/DhakaFlixProvider.cs3",
+        "name": "DhakaFlixProvider"
+    }
+]
