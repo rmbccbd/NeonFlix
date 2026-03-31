@@ -5,10 +5,6 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
 
 buildscript {
-    ext {
-        //compose_version = '1.2.0-beta02'
-        kotlin_version = '2.3.0'// This might be missing, you can add it
-    }
     repositories {
         mavenCentral()
         maven("https://jitpack.io")
