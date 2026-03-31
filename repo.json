@@ -1,0 +1,8 @@
+{
+    "name": "DhakaFlix Repo by RMBCCBD",
+    "description": "DhakaFlix",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/rmbccbd/NeonFlix/builds/plugins.json"
+    ]
+}
