@@ -38,7 +38,7 @@ import java.nio.charset.StandardCharsets
 //    providerTester.testLoad("http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Squid%20Game%20%28TV%20Series%202021%E2%80%932025%29%201080p%20%5BMulti%20Audio%5D/")
 //}
 
-open class BdixDhakaFlix14Provider : MainAPI() {
+open class DhakaFlix14Provider : MainAPI() {
     override var mainUrl = "http://172.16.50.14"
     override var name = "(BDIX) DhakaFlix 14"
     override val hasMainPage = true
